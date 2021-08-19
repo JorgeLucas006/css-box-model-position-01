@@ -1,0 +1,28 @@
+body {
+  background-color: aquamarine;
+}
+
+img {
+  margin: 5px;
+  padding: 10px;
+}
+
+.dog1 {
+  border: 1px solid;
+}
+
+.dog2 {
+  border: 2px dotted red;
+}
+
+.dog3 {
+  border: 5px dashed green;
+}
+
+.dog4 {
+  border: 10px groove yellow;
+}
+
+.dog5 {
+  border: 15px outset purple;
+}
